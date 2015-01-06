@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: guestbook/index.html
-title: "留言板"
-description: 有問題可以給我留言
+title: "个人寄语"
+description: 还没做好
 headline: 
-modified: 2014-12-07
+modified: 2015-01-06
 tags: []
 image: 
   feature: 
 comments: true
 mathjax: 
 ---
-> 汉之广矣，不可泳思；江之永矣，不可方思。
+> 没一个不曾起舞的日子,都是对生命的辜负

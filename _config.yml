@@ -1,5 +1,5 @@
 title:            My own heaven
-description:      "总得在这个世界留下点什么"
+description:      "愿你所愿，如期而至"
 logo:             omikron.png
 disqus_shortname:
 duoshuo_shortname:  SaddestMoon
@@ -19,7 +19,8 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		   http://saddestmoon.github.io
+# url:       		   http://saddestmoon.github.io
+url:       		   http://www.saddestmoon.com
 
 # Owner/author information
 owner:
