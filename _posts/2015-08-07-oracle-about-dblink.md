@@ -15,16 +15,16 @@ db_link目的是为了使我们跨越本地数据库访问另外一个数据库�
 	
    1. 前提:
 
-    创建dblink的用户有对应的数据库权限:create public database link 或者 create database link 
-   
-    可以使用
+   创建dblink的用户有对应的数据库权限:create public database link 或者 create database link 
+   可以使用
 
 		grant create public database link,create database link to myAccount;
         
-    来授权.
+   来授权.
 
    2. 创建
    
+
    	    create public database link dblinkname connect to username 
 		identified by password 
 		using '(DESCRIPTION = 
@@ -36,9 +36,10 @@ db_link目的是为了使我们跨越本地数据库访问另外一个数据库�
 		)
 		)';
 
-    说明:
-      + host=数据库的ip地址，service_name=数据库的ssid;
-      + 如果不加 `public`，那么创建的dblink只有当前用户可用; 
+   说明:
+      
+   + host=数据库的ip地址，service_name=数据库的ssid;
+   + 如果不加 `public`，那么创建的dblink只有当前用户可用; 
 	
    
 
