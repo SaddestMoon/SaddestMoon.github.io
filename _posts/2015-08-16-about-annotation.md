@@ -1,3 +1,14 @@
+---
+layout: post
+title: 关于Java注解
+description: "笨就要多读书"
+category: 成长の足迹
+tags: [笔记 , 代码狗 ,Java]
+imagefeature: 
+comments: true
+share: true
+---
+
 ## 注解的分类 ##
 
 1. 源码注解
