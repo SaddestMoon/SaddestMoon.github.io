@@ -42,7 +42,7 @@ share: true
     //注解的注解，即为元注解。
 	//没有成员的注解,即为标识注解
 	
- 1. @Target 注解的作用域:
+@Target 注解的作用域:
 
    + CONSTRUCTOR 构造方法声明
    + FIELD 字段声明
@@ -52,15 +52,15 @@ share: true
    + PARAMETER 参数声明
    + TYPE 类,接口声明
  
- 2. @Retention 生命周期
+@Retention 生命周期
   
    + SOURCE 只在源码显示,编译时会丢失
    + CLASS 编译时会记录到class中，运行时忽略
    + RUNTIME 运行时存在,可以通过反射读取
 
- 3. @Inherited 允许子类继承
+@Inherited 允许子类继承
  
- 4. @Documented 生成javadoc时会包含该注解
+@Documented 生成javadoc时会包含该注解
  
 ### 2. 解析注解 ###
 
