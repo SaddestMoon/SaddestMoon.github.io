@@ -3,7 +3,7 @@ layout: post
 title: Oracle Expdp 及 Impdp
 description: "mysql多好"
 category: 成长の足迹
-tags: [笔记 , 代码狗 ,Java]
+tags: [笔记 , 代码狗 ,Oracle]
 imagefeature: 
 comments: true
 share: true
