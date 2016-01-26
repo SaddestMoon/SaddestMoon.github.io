@@ -123,7 +123,6 @@ share: true
 	/*  行政区界断面  */
 	http://10.1.3.140/iserver/services/data-MWR_AB_5T_WFS/wfs100/utf-8?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=AB:AB&&Filter=(<Filter><ogc:PropertyIsLike wildCard="*" singleChar="?" escapeChar="\" xmlns:ogc="http://www.opengis.net/ogc"><ogc:PropertyName>ID</ogc:PropertyName><ogc:Literal>36*</ogc:Literal></ogc:PropertyIsLike></Filter>)
 
-http://10.1.3.140/iserver/services/data-MWR_CNTY_5T_WFS/wfs100/utf-8?VERSION=1.0.0&SERVICE=WFS&REQUEST=GetFeature&TYPENAME=CNTY:GEO_CNTY_5T&BBOX=108.3624809058997,29.032619956462256,116.1324580113027,33.27291933150885
 	
 
 	
