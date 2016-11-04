@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SpringMVC路径匹配规则AntPathMatcher
-description: "笨就要多读书"
+description: "Spring源码有毒"
 category: 成长の足迹
 tags: [笔记 , 代码狗 ,Java ,Spring]
 imagefeature: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: StringTokenizer、split、substring对比
-description: "笨就要多读书"
+description: "冷知识"
 category: 成长の足迹
 tags: [笔记 , 代码狗 ,Java]
 imagefeature: 
