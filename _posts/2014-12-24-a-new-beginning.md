@@ -2,7 +2,7 @@
 layout: post
 title: 特殊的日子,纪念下
 description: "这个DB自己都不知道他在说什么"
-category: 生活の印迹
+categories: 生活の印迹
 tags: [生活 ,属于纪念]
 imagefeature: 
 comments: true

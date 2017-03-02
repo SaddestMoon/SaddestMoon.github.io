@@ -2,7 +2,7 @@
 layout: post
 title: 关于Android SDK更新那点P事
 description: "其实是关于如何翻墙"
-category: 生活の印迹
+categories: 生活の印迹
 tags: [Android]
 imagefeature: 
 comments: true

@@ -2,7 +2,7 @@
 layout: post
 title: 字符编码相关(简略版)
 description: "笨就要多读书"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,Java]
 imagefeature: 
 comments: true

@@ -2,7 +2,7 @@
 layout: post
 title: 读书笔记 之《人月神话》
 description: "嗯，算是读书笔记吧，总得记录点什么"
-category: 生活の印迹
+categories: 生活の印迹
 tags: [拯救无可救药的智商]
 imagefeature: 
 comments: true

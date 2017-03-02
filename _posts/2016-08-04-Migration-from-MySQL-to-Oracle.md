@@ -2,7 +2,7 @@
 layout: post
 title: MySQL数据库迁移到Oracle
 description: "冷知识"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,数据库]
 imagefeature: 
 comments: true

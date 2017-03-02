@@ -2,7 +2,7 @@
 layout: post
 title: OGC Filter
 description: "GIS就TM是个坑"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,GIS]
 imagefeature: 
 comments: true

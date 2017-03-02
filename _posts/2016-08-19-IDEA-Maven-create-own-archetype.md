@@ -2,7 +2,7 @@
 layout: post
 title: IDEA中maven项目创建自己的archetype并使用
 description: "论偷懒的办法"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,Java]
 imagefeature: 
 comments: true

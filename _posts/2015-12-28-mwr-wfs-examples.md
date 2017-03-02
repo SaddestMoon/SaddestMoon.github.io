@@ -2,7 +2,7 @@
 layout: post
 title: 水利部WFS相关服务调用
 description: "没内网有P用"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,GIS]
 imagefeature: 
 comments: true

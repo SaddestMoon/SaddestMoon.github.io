@@ -2,7 +2,7 @@
 layout: post
 title: 关于ORACLE的DB_LINK
 description: "笨就要多读书，笨就要多记笔记T.T"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,Oracle]
 imagefeature: 
 comments: true

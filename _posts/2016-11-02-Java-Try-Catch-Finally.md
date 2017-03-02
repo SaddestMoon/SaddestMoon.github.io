@@ -2,7 +2,7 @@
 layout: post
 title: try--catch--finall优先级总结
 description: "基础啊基础"
-category: 成长の足迹
+categories: 成长の足迹
 tags: [笔记 , 代码狗 ,GIS]
 imagefeature: 
 comments: true
