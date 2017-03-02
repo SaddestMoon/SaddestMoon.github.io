@@ -1,6 +1,6 @@
 # 博客地址
 
-<http://blog.rainyalley.com/>
+<http://blog.fornever.cn/>
 
 # 必改内容
 
