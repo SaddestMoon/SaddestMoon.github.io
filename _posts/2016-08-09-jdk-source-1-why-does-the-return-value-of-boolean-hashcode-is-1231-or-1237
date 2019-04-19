@@ -1,9 +1,9 @@
 ---
 layout: post
-title: SpringMVC路径匹配规则AntPathMatcher
-description: "Spring源码有毒"
+title: 你可能不清楚的Java细节(1)--为什么Boolean的hashCode()方法返回值是1231或1237
+description: "JDK源码有毒"
 categories: 成长の足迹
-tags: [笔记 , 代码狗 ,Java ,Spring]
+tags: [笔记 , 代码狗 ,Java ,JDK源码分析]
 imagefeature: 
 comments: true
 share: true
