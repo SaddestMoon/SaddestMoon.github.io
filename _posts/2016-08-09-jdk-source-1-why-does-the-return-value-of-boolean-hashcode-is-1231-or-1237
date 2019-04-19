@@ -8,7 +8,7 @@ imagefeature:
 comments: true
 share: true
 ---
-
+## 问题
 本文中涉及到的JDK源码基于JDK1.8_102.
 
 Boolean的hashCode()方法源码如下:
